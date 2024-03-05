@@ -22,7 +22,6 @@ Skills: Dart/C++/Java/Firebase
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khsujon&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/khsujon)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=khsujon)  
 
