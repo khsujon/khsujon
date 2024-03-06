@@ -11,7 +11,7 @@ Skills: Dart/C++/Java/Firebase
 
 - 🔭 I’m currently working on my own project 
 - 🌱 I’m currently learning DBMS and API integration  
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Flutter Development 
 
 
