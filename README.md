@@ -1,16 +1,16 @@
 ### Hi there 👋, I am Kamrul Hasan
-#### Programmer, Problem Solver and Flutter Developer
+#### Programmer and Flutter Developer(Android and IOS)
 ![Programmer and Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate specializing in software development. I'm proficient in Data Structures and Algorithms, Object-Oriented Programming, and Database Management Systems. My programming expertise spans across C++, Dart, and Java. As a Flutter developer, I craft sleek mobile applications blending creativity with functionality. Let's connect and build something remarkable!
+Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate with a solid foundation in OOP, Data Structures, Algorithms, and mobile app development using Flutter. Proficient in state management techniques (Provider, Bloc), with experience in full-stack mobile app development, including REST API integration and real-time as well as local database management using Sqflite and Hive. Let's connect and build something remarkable!
 
-Skills: Dart/C++/Java/Firebase
+Skills: Dart/C++/Java/Firebase/State Management
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
 
 - 🔭 I’m currently working on my own project 
-- 🌱 I’m currently learning DBMS and API integration  
+- 🌱 I’m currently learning Bloc 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Flutter Development 
 
