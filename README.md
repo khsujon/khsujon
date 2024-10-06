@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Kamrul Hasan
-#### Programmer and Flutter Developer(Android and IOS)
+#### Software Engineer and Flutter Developer(Android and IOS)
 ![Programmer and Flutter Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate with a solid foundation in OOP, Data Structures, Algorithms, and mobile app development using Flutter. Proficient in state management techniques (Provider, Bloc), with experience in full-stack mobile app development, including REST API integration and real-time as well as local database management using Sqflite and Hive. Let's connect and build something remarkable!
