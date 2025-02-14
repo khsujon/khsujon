@@ -23,6 +23,6 @@ Skills: Mobile Application Development/Flutter/Dart/Firebase/REST APIS/State Man
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khsujon&show_icons=true&count_private=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=khsujon)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=khsujon&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khsujon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khsujon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sn.kamrulhasan12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr_kamrulhasan/)  
 
