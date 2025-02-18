@@ -12,7 +12,7 @@ Skills: Mobile Application Development/Flutter/Dart/Firebase/REST APIS/State Man
 - 🔭 I’m currently working on Hobby Projects 
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Flutter Development 
+- 💬 Ask me about Mobile App Development 
 
 
 
