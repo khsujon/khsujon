@@ -5,7 +5,7 @@
 Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate with a solid foundation in OOP, Data Structures, Algorithms, and full-stack mobile app development using Flutter & Golang. Proficient in state management techniques (Provider, getx, Bloc), with experience in mobile app development(Android & IOS), including REST API integration and real-time as well as local database management using Sqflite and Hive. Let's connect and build something remarkable!
 
 # 💫 About Me:
-🔭 I’m currently working on MakeMDay<br>🌱 I’m currently learning Golang<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Mobile App Development
+🔭 I’m currently working on goWholesome<br>🌱 I’m currently learning Golang<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Mobile App Development
 
 
 ## 🌐 Socials:
