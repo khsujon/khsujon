@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kamrul Hasan
 #### Software Engineer and Full Stack Flutter Developer(Android and IOS)
-![Programmer and Flutter Developer](https://media.licdn.com/dms/image/v2/D5616AQHePweRLDxBXw/profile-displaybackgroundimage-shrink_350_1400/B56ZlDt_vqJ0AY-/0/1757777758127?e=1760572800&v=beta&t=AhbDLr1UNQPeGlD3VKDInGJQf8ekFk-2_bc-7Gei1Q0)
+![Programmer and Flutter Developer](https://media.licdn.com/dms/image/v2/D5616AQHePweRLDxBXw/profile-displaybackgroundimage-shrink_200_800/B56ZlDt_vqJ0AU-/0/1757777758127?e=1766016000&v=beta&t=muEs8-2Z4SlixrX_RZ2CW8flcH18mRFa-xSHApyuaRI)
 
 Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate with a solid foundation in OOP, Data Structures, Algorithms, and full-stack mobile app development using Flutter & Golang. Proficient in state management techniques (Provider, getx, Bloc), with experience in mobile app development(Android & IOS), including REST API integration and real-time as well as local database management using Sqflite and Hive. Let's connect and build something remarkable!
 
