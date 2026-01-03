@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Animated Header (UPDATED & SAFE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Kamrul%20Hasan&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20Flutter%20%26%20Node.js&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Kamrul%20Hasan&fontSize=46&fontAlignY=38&fontColor=f8fafc&desc=Software%20Engineer%20|%20Flutter%20and%20Node.js%20|%20AI%20ML%20Enthusiast&descAlignY=62&descColor=bae6fd&animation=fadeIn&color=0:14b8a6,45:6366f1,100:a855f7" />
 </p>
 
 <!-- Animated Greeting Text -->
