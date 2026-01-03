@@ -1,33 +1,103 @@
-### Hi there 👋, I am Kamrul Hasan
-#### Software Engineer and Full Stack Flutter Developer(Android and IOS)
-![Programmer and Flutter Developer](https://media.licdn.com/dms/image/v2/D5616AQHePweRLDxBXw/profile-displaybackgroundimage-shrink_200_800/B56ZlDt_vqJ0AU-/0/1757777758127?e=1766016000&v=beta&t=muEs8-2Z4SlixrX_RZ2CW8flcH18mRFa-xSHApyuaRI)
-
-Hey there! I'm Kamrul Hasan, a Computer Science and Engineering graduate with a solid foundation in OOP, Data Structures, Algorithms, and full-stack mobile app development using Flutter & Golang. Proficient in state management techniques (Provider, getx, Bloc), with experience in mobile app development(Android & IOS), including REST API integration and real-time as well as local database management using Sqflite and Hive. Let's connect and build something remarkable!
-
-# 💫 About Me:
-🔭 I’m currently working on goWholesome<br>🌱 I’m currently learning Golang<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Mobile App Development
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sn.kamrulhasan12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_kamrulhasan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khsujon/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamrulhasan.km3@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khsujon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khsujon&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khsujon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khsujon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khsujon&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Kamrul%20Hasan&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20Flutter%20%26%20Go&descAlignY=55&animation=fadeIn" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khsujon&icon=4&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I am a **Software Engineer** with a strong focus on **Flutter-based cross-platform mobile applications** and **backend services using Node Js**.  
+I care deeply about **clean architecture, scalability, and performance**, and I enjoy building products that solve real problems.
+
+- 🎓 Computer Science & Engineering graduate  
+- 📱 Android & iOS app development (Flutter)  
+- ⚙️ Backend APIs with Node 
+- 🧠 Strong foundation in DSA & OOP  
+
+---
+
+## 🚀 Current Focus
+- 🔭 Building **goWholesome**
+- 🌱 Advancing **Python backend architecture**
+- 🤝 Open for **collaboration & OSS contributions**
+- 💬 Ask me about **Flutter, APIs, or App Architecture**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,firebase,mongodb,mysql,sqlite,cpp,c,python,js,html,css,git,figma&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Analytics (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khsujon&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsujon&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khsujon&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khsujon&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khsujon&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khsujon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kamrulhasan.km3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/kamrulhasan010/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mr_kamrulhasan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khsujon&style=for-the-badge&color=6366f1"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. Build daily."</i>
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+</p>
