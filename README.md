@@ -41,15 +41,6 @@ I strongly value **clean architecture, scalability, performance, and long-term m
 
 ---
 
-## 📊 GitHub Analytics (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khsujon&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khsujon&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
