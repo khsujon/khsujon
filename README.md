@@ -1,34 +1,42 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Kamrul%20Hasan&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20Flutter%20%26%20Go&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Kamrul%20Hasan&fontSize=45&fontAlignY=35&desc=Software%20Engineer%20|%20Flutter%20%26%20Node.js&descAlignY=55&animation=fadeIn" />
+</p>
+
+<!-- Animated Greeting Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Hi+there!+This+is+Kamrul+Hasan;Software+Engineer;AI+%2F+ML+Enthusiast;Aspiring+Expert+AI+%26+ML+Engineer" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Software Engineer** with a strong focus on **Flutter-based cross-platform mobile applications** and **backend services using Node Js**.  
-I care deeply about **clean architecture, scalability, and performance**, and I enjoy building products that solve real problems.
+I am a **Software Engineer** specializing in **Flutter-based cross-platform mobile development** and **backend services using Node.js**.  
+I am also a **passionate AI/ML enthusiast**, actively working towards becoming an **expert AI & Machine Learning Engineer**.
+
+I strongly value **clean architecture, scalability, performance, and long-term maintainability**, and I enjoy building systems that solve real-world problems.
 
 - 🎓 Computer Science & Engineering graduate  
 - 📱 Android & iOS app development (Flutter)  
-- ⚙️ Backend APIs with Node 
-- 🧠 Strong foundation in DSA & OOP  
+- ⚙️ Backend APIs with **Node.js**
+- 🤖 AI / ML enthusiast (learning & experimenting continuously)
+- 🧠 Strong foundation in **DSA & OOP**
 
 ---
 
 ## 🚀 Current Focus
 - 🔭 Building **goWholesome**
-- 🌱 Advancing **Python backend architecture**
+- 🌱 Advancing **AI / ML & backend architecture**
 - 🤝 Open for **collaboration & OSS contributions**
-- 💬 Ask me about **Flutter, APIs, or App Architecture**
+- 💬 Ask me about **Flutter, Node.js, APIs, or AI/ML fundamentals**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,go,firebase,mongodb,mysql,sqlite,cpp,c,python,js,html,css,git,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,mongodb,mysql,sqlite,cpp,c,python,js,html,css,git,figma&perline=8" />
 </p>
 
 ---
