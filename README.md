@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I am a **Software Engineer** specializing in **Flutter-based cross-platform Mobile Development** and **backend services using Node.js**.  
+I am a **Software Engineer** specializing in **Flutter-based cross-platform Mobile App Development** and **backend services using Node.js**.  
 I am also a **passionate AI/ML enthusiast**, actively working towards becoming an **expert AI & Machine Learning Engineer**.
 
 I strongly value **clean architecture, scalability, performance, and long-term maintainability**, and I enjoy building systems that solve real-world problems.
